@@ -45,7 +45,7 @@ public class ForSchleife
        String reversedString = new StringBuilder(myString).reverse().toString();
        
        // Ausgabe des umgekehrten Strings
-       System.out.println("Spiegelverkehrt: " + reversedString);
+       System.out.println("Spiegelverkehrt:  " + reversedString);
        
        
     }
