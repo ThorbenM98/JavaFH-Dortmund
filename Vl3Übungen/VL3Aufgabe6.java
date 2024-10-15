@@ -8,8 +8,8 @@ public class VL3Aufgabe6 {
         boolean schaltjahr = false;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Wählen sie aus:");
-        System.out.println("1. Schaltjahr bestimmen, geben sie ein Jahr von 0 bis 2147483647 ein");
-        System.out.println("2. Schaltjahr bestimmen, geben sie ein Jahr von 0 bis 2147483647 ein");
+        System.out.println("1. Schaltjahr bestimmen, geben sie ein Jahr von 0 bis 4096 ein");
+        System.out.println("2. Schaltjahr automatisch bestimmen, geben sie ein Jahr von 0 bis 4096 ein");
         //Menüeingabe
         eingabe = scanner.nextInt();
 
