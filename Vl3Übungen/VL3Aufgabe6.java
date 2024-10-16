@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class VL3Aufgabe6 {
-
+//test for pulling
 	public static void main(String[] args) {
 		int eingabe;
 		boolean schaltjahr = false;
