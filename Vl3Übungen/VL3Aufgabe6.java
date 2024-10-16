@@ -18,7 +18,8 @@ public class VL3Aufgabe6 {
 			System.out.println("Kein gültiger Wert!");
 			System.exit(0);
 		}
-
+  
+		
 		if (eingabe == 1) {
 			// Jahreseingabe
 			eingabe = scanner.nextInt();
