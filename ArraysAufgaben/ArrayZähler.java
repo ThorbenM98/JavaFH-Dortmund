@@ -24,7 +24,7 @@ public class ArrayZähler {
                 fehlerhaftStk++;
                 fehlerHaft[i] = anzahl;
                 fehlerhafteNummer[i] = i;
-                System.out.println("Fehlerhafte befüllung bei Tüte " + fehlerhateNummer[i] + ". " + fehlerHaft[i] + " stk.");
+                System.out.println("Fehlerhafte befüllung bei Tüte " + fehlerhafteNummer[i] + ". " + fehlerHaft[i] + " stk.");
             } else if (anzahl == 12) {
                 korrekteTüte[i] = anzahl;
                 korrekt++;
